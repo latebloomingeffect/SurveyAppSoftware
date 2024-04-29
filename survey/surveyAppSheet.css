@@ -1,0 +1,133 @@
+/*
+-------------------------------------------------------------------
+Survey App - The Cascading Style Sheet
+-------------------------------------------------------------------
+*/
+a				{
+					color:#000000;
+					text-decoration:none;
+				}
+a:hover			{
+					color:#00CCCC;
+				}
+#align			{
+					margin:20px 0px;
+				}
+#app_name		{
+					display:inline;
+					padding-bottom:5px;
+					padding-left:5px;
+					padding-right:920px;
+					padding-top:5px;
+					text-align:center;
+				}
+
+body			{
+					font-family:sans-serif;
+					font-size:14px;
+				}
+
+
+#date_width		{
+					width:198px;
+				}
+
+#fill_action	{
+					display:inline;
+					padding:5px;
+					text-align:center;
+				}
+#fill_action:hover	{
+						color:#00CCCC;
+					}					
+#food_question	{
+					display:inline;
+				}
+
+.input_width	{
+					width:195px;
+				}
+
+.label_space	{
+					display:inline;
+					padding:0px 9px;
+				}
+
+#personal_details1	{
+						display:inline;
+						padding-left:2px;
+						padding-right:78px;
+						padding-bottom:150px;
+					}
+#personal_details2	{
+						left:203px;
+						position:relative;
+						padding-bottom:11px;
+						padding-left:2px;
+						padding-right:28px;
+						width:180px;
+						top:-18px;
+					}							
+
+.radio_align	{
+					text-align:center;
+				}				
+.radio_color	{
+					background-color:#00FFFF;
+				}
+#rating_table			{
+					border-collapse:collapse;
+					border-width:1px;
+					margin:0px;
+				}
+
+#survey_button	{
+					background-color:#00CCCC;
+					border-style:none;
+					color:#FFFFFF;
+					padding:6px 30px;
+					margin:0px 405px;
+					margin-top:20px;
+				}
+#survey_result	{
+					position:relative;
+					left:170px;
+				}
+.survey_result	{
+					border-color:#FFFFFF;
+					text-align:left;
+					padding:5px 185px;
+				}
+
+#validation		{	
+						background-color:#00CCCC;
+						height:106px;
+						left:910px;
+						position:relative;
+						top:-167px;
+						width:440px;
+					}
+#view_action	{
+					display:inline;
+					padding:5px;
+					text-align:center;
+				}
+#view_action:hover	{
+						color:#00CCCC;
+					}
+
+td				{
+					border-color:#00FFFF;
+					border-style:solid;
+					border-width:1px;
+				}
+th				{
+					background-color:#AAAAAA;
+					border-style:solid;
+					border-width:1px;
+					font-weight:normal;
+					margin:0px;
+					padding:0px;
+					text-align:center;
+					width:150px;
+				}
